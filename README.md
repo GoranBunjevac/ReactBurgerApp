@@ -1,2 +1,2 @@
 # ReactBurgerApp
-Build your burger, app made in Reacs JS
+Build your burger, app made in React JS
