@@ -107,5 +107,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "remove-react-proptypes": "^1.0.0"
   }
 }
